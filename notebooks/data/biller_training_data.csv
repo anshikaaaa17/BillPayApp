@@ -1,0 +1,358 @@
+biller_name,category,source_biller,variant_type
+KEPPEL-ELECTRI-SG,Utilities,Keppel Electric,statement-format
+Spotify Ltd,Entertainment,Spotify,legal-suffix
+MYREPUBLIC,Telecoms,MyRepublic,case variant
+VIEWQWE,Telecoms,ViewQwest,abbreviation
+DBS-HOME-LOAN-SG,Finance,DBS Home Loan,statement-format
+Tkio Marine,Insurance,Tokio Marine,typo-1
+Tokio Marine,Insurance,Tokio Marine,original (registry)
+YouTube Premiium,Entertainment,YouTube Premium,typo-1
+Tokio Marine Ltd,Insurance,Tokio Marine,legal-suffix
+AIA Insurance Pte Ltd,Insurance,AIA Insurance,legal-suffix
+Ctiibank,Finance,Citibank,typo-2
+Keppel Electric,Utilities,Keppel Electric,original (registry)
+Grab Transport,Transport,Grab Transport,original (registry)
+UOB Crefit Card,Finance,UOB Credit Card,typo-1
+SP Group Group,Utilities,SP Group,legal-suffix
+MyRepublic,Telecoms,MyRepublic,original (registry)
+NUS,Education,NUS Tuition,abbreviation
+AMAZON PRIME,Entertainment,Amazon Prime,case variant
+M1 MOBILE,Telecoms,M1 Mobile,case variant
+TPG-TELECOM-SG,Telecoms,TPG Telecom,statement-format
+M1-MOBILE-SG,Telecoms,M1 Mobile,statement-format
+GENECO,Utilities,Geneco,case variant
+Sfcoot,Travel,Scoot,typo-2
+Cithy Gas,Utilities,City Gas,typo-1
+NTUC INCOME,Insurance,NTUC Income,case variant
+NTU Fees,Education,NTU Fees,typo-2
+SP rGoup,Utilities,SP Group,typo-2
+SBS Tranesit,Transport,SBS Transit,typo-1
+Rafflex Hotel,Travel,Raffles Hotel,typo-2
+NTU-FEES-SG,Education,NTU Fees,statement-format
+COMFORTDELGRO,Transport,ComfortDelGro,case variant
+SMU Fees Ltd,Education,SMU Fees,legal-suffix
+HDB Rent Pte Ltd,Housing,HDB Rent,legal-suffix
+MANULI,Insurance,Manulife,abbreviation
+SBS Transit,Transport,SBS Transit,original (registry)
+UOB Credit Card,Finance,UOB Credit Card,original (registry)
+VIEWQWEST-SG,Telecoms,ViewQwest,statement-format
+DISNEY-PLUS-SG,Entertainment,Disney Plus,statement-format
+Standard Chartered Limited,Finance,Standard Chartered,legal-suffix
+SINGAPORE AIRLINES,Travel,Singapore Airlines,case variant
+YOUTUBE PREMIUM,Entertainment,YouTube Premium,case variant
+Manylife,Insurance,Manulife,typo-2
+Amason Prime,Entertainment,Amazon Prime,typo-2
+SP-POWER-SG,Utilities,SP Power,statement-format
+Frsers Property,Housing,Frasers Property,typo-1
+PRUDENTIAL-SG,Insurance,Prudential,statement-format
+CITY,Utilities,City Gas,abbreviation
+NRTU Fees,Education,NTU Fees,typo-1
+SEMBCORP POWER,Utilities,Sembcorp Power,case variant
+SUTD FEES,Education,SUTD Fees,case variant
+Grab Tranpsort,Transport,Grab Transport,typo-2
+Ascendas Limited,Housing,Ascendas,legal-suffix
+MYREPUBL,Telecoms,MyRepublic,abbreviation
+TPG TELECOM,Telecoms,TPG Telecom,case variant
+CITIBANK-SG,Finance,Citibank,statement-format
+HSVBC,Finance,HSBC,typo-2
+Maulife,Insurance,Manulife,typo-1
+SP Group,Utilities,SP Group,original (registry)
+SPOTIFY,Entertainment,Spotify,case variant
+HDB,Housing,HDB Rent,abbreviation
+NUS-TUITION-SG,Education,NUS Tuition,statement-format
+HDB Rent,Housing,HDB Rent,original (registry)
+NTUC  Income,Insurance,NTUC Income,typo-1
+Keppel Elecrtic,Utilities,Keppel Electric,typo-1
+CapitaLand Group,Housing,CapitaLand,legal-suffix
+AIA,Insurance,AIA Insurance,abbreviation
+YouTube Premium Pte Ltd,Entertainment,YouTube Premium,legal-suffix
+GRAB,Transport,Grab Transport,abbreviation
+SCOOT,Travel,Scoot,case variant
+UOB Credi tCard,Finance,UOB Credit Card,typo-2
+Geneco Pte Ltd,Utilities,Geneco,legal-suffix
+NETFLIX-SG,Entertainment,Netflix,statement-format
+OCBC,Finance,OCBC Mortgage,abbreviation
+CITY-GAS-SG,Utilities,City Gas,statement-format
+CapitaLand,Housing,CapitaLand,original (registry)
+OCBC Mortgae,Finance,OCBC Mortgage,typo-1
+Singapore Airlines,Travel,Singapore Airlines,original (registry)
+SP GROUP,Utilities,SP Group,case variant
+Marina Bay Sands Ltd,Travel,Marina Bay Sands,legal-suffix
+Keppel Electric Group,Utilities,Keppel Electric,legal-suffix
+DBSHome Loan,Finance,DBS Home Loan,typo-1
+Aople TV,Entertainment,Apple TV,typo-1
+SP Power Pte Ltd,Utilities,SP Power,legal-suffix
+GreatEastern,Insurance,Great Eastern,typo-1
+DBS Credit Xard,Finance,DBS Credit Card,typo-1
+GENECO-SG,Utilities,Geneco,statement-format
+SINGTEL-SG,Telecoms,Singtel,statement-format
+SUTD FE,Education,SUTD Fees,abbreviation
+DHL,Finance,DBS Home Loan,abbreviation
+CITIBANK,Finance,Citibank,case variant
+DBS Home Loan Group,Finance,DBS Home Loan,legal-suffix
+StarHub Ltd,Telecoms,StarHub,legal-suffix
+FP,Housing,Frasers Property,abbreviation
+Sembxorp Power,Utilities,Sembcorp Power,typo-2
+Keplpel Electric,Utilities,Keppel Electric,typo-2
+Gneeco,Utilities,Geneco,typo-1
+Disney Plus,Entertainment,Disney Plus,original (registry)
+APPLE,Entertainment,Apple TV,abbreviation
+Appl TV,Entertainment,Apple TV,typo-2
+PUB,Utilities,PUB Water,abbreviation
+AIA INSURANCE,Insurance,AIA Insurance,case variant
+MyRepubilc,Telecoms,MyRepublic,typo-1
+SP GRO,Utilities,SP Group,abbreviation
+Frasers Property Group,Housing,Frasers Property,legal-suffix
+NTUC-INCOME-SG,Insurance,NTUC Income,statement-format
+McDonald's Pte Ltd,Food & Dining,McDonald's,legal-suffix
+Rafvles Hotel,Travel,Raffles Hotel,typo-1
+Disney Plus Group,Entertainment,Disney Plus,legal-suffix
+HSBC,Finance,HSBC,case variant
+M1 Mobikle,Telecoms,M1 Mobile,typo-1
+Disney Pklus,Entertainment,Disney Plus,typo-1
+NETFL,Entertainment,Netflix,abbreviation
+SMU,Education,SMU Fees,abbreviation
+MCDONALD'S-SG,Food & Dining,McDonald's,statement-format
+AP,Entertainment,Amazon Prime,abbreviation
+DBS HOME LOAN,Finance,DBS Home Loan,case variant
+Singtel Limited,Telecoms,Singtel,legal-suffix
+NTU FE,Education,NTU Fees,abbreviation
+ViewQwest Limited,Telecoms,ViewQwest,legal-suffix
+RAFFLES HOTEL,Travel,Raffles Hotel,case variant
+Amazon rime,Entertainment,Amazon Prime,typo-1
+Netflix Pte Ltd,Entertainment,Netflix,legal-suffix
+SP POW,Utilities,SP Power,abbreviation
+DISNEY,Entertainment,Disney Plus,abbreviation
+SJMRT,Transport,SMRT,typo-2
+HCDB Rent,Housing,HDB Rent,typo-1
+Geneco,Utilities,Geneco,original (registry)
+Prudentkial,Insurance,Prudential,typo-1
+FRASERS-PROPER-SG,Housing,Frasers Property,statement-format
+Sinvapore Airlines,Travel,Singapore Airlines,typo-2
+HSBC-SG,Finance,HSBC,statement-format
+TPG Gelecom,Telecoms,TPG Telecom,typo-2
+Scoot,Travel,Scoot,original (registry)
+Frasers Prolerty,Housing,Frasers Property,typo-2
+CITIBA,Finance,Citibank,abbreviation
+SBS Transit Group,Transport,SBS Transit,legal-suffix
+SP Powr,Utilities,SP Power,typo-1
+OCBC MORTGAGE,Finance,OCBC Mortgage,case variant
+NS Tuition,Education,NUS Tuition,typo-2
+MARINA BAY SANDS,Travel,Marina Bay Sands,case variant
+PUB WATER,Utilities,PUB Water,case variant
+Grab FTransport,Transport,Grab Transport,typo-1
+Citibank,Finance,Citibank,original (registry)
+ComfortDelGro,Transport,ComfortDelGro,original (registry)
+ViewQwest,Telecoms,ViewQwest,original (registry)
+OCBC Mortgae,Finance,OCBC Mortgage,typo-2
+SUTD-FEES-SG,Education,SUTD Fees,statement-format
+PUB Water Limited,Utilities,PUB Water,legal-suffix
+YouTube  Premium,Entertainment,YouTube Premium,typo-2
+SEMBCORP-POWER-SG,Utilities,Sembcorp Power,statement-format
+Apple TV Pte Ltd,Entertainment,Apple TV,legal-suffix
+SBS-TRANSIT-SG,Transport,SBS Transit,statement-format
+SEMBCORP,Utilities,Sembcorp Power,abbreviation
+SIT Fwes,Education,SIT Fees,typo-2
+Marina Ba ySands,Travel,Marina Bay Sands,typo-2
+HBC,Finance,HSBC,typo-1
+Marina Bay Sands,Travel,Marina Bay Sands,original (registry)
+KFC,Food & Dining,KFC,typo-2
+M1 Mobie,Telecoms,M1 Mobile,typo-2
+Apple TV,Entertainment,Apple TV,original (registry)
+TT,Telecoms,TPG Telecom,abbreviation
+SMRT-SG,Transport,SMRT,statement-format
+DBS Credit Card,Finance,DBS Credit Card,original (registry)
+AMAZON-PRIME-SG,Entertainment,Amazon Prime,statement-format
+Starub,Telecoms,StarHub,typo-1
+SIT-FEES-SG,Education,SIT Fees,statement-format
+Citigbank,Finance,Citibank,typo-1
+GRAB TRANSPORT,Transport,Grab Transport,case variant
+TPG Telecom,Telecoms,TPG Telecom,original (registry)
+Prudential Ltd,Insurance,Prudential,legal-suffix
+CAPITALAND,Housing,CapitaLand,case variant
+M1 MOBI,Telecoms,M1 Mobile,abbreviation
+DBS CREDIT CA,Finance,DBS Credit Card,abbreviation
+SPOTIFY-SG,Entertainment,Spotify,statement-format
+Sembcrp Power,Utilities,Sembcorp Power,typo-1
+SCOOT-SG,Travel,Scoot,statement-format
+NTUC Income,Insurance,NTUC Income,original (registry)
+UOB-CREDIT-CAR-SG,Finance,UOB Credit Card,statement-format
+STANDARD CHARTER,Finance,Standard Chartered,abbreviation
+NUS Tition,Education,NUS Tuition,typo-1
+NUS TUITION,Education,NUS Tuition,case variant
+McDojnald's,Food & Dining,McDonald's,typo-2
+AI AInsurance,Insurance,AIA Insurance,typo-1
+NI,Insurance,NTUC Income,abbreviation
+SKRT,Transport,SMRT,typo-1
+SINGAPORE AIRLIN,Travel,Singapore Airlines,abbreviation
+CAPITALAND-SG,Housing,CapitaLand,statement-format
+Genreco,Utilities,Geneco,typo-2
+Nretflix,Entertainment,Netflix,typo-2
+GENE,Utilities,Geneco,abbreviation
+SIT,Education,SIT Fees,abbreviation
+ComfortDelGro Limited,Transport,ComfortDelGro,legal-suffix
+KFC,Food & Dining,KFC,case variant
+DBS Credit Cafrd,Finance,DBS Credit Card,typo-2
+Standared Chartered,Finance,Standard Chartered,typo-2
+Singapore Airlines Ltd,Travel,Singapore Airlines,legal-suffix
+KE,Utilities,Keppel Electric,abbreviation
+StarHub,Telecoms,StarHub,original (registry)
+UOB CREDIT CA,Finance,UOB Credit Card,abbreviation
+City Gzs,Utilities,City Gas,typo-2
+SBS,Transport,SBS Transit,abbreviation
+APPLE TV,Entertainment,Apple TV,case variant
+SP POWER,Utilities,SP Power,case variant
+SMRT,Transport,SMRT,case variant
+SMY Fees,Education,SMU Fees,typo-1
+DISNEY PLUS,Entertainment,Disney Plus,case variant
+SMRT Pte Ltd,Transport,SMRT,legal-suffix
+McDonald's,Food & Dining,McDonald's,original (registry)
+Standard Chartered,Finance,Standard Chartered,original (registry)
+SMU FEES,Education,SMU Fees,case variant
+TOKIO MARI,Insurance,Tokio Marine,abbreviation
+Marina Ba ySands,Travel,Marina Bay Sands,typo-1
+Singtel,Telecoms,Singtel,original (registry)
+AIA Insurance,Insurance,AIA Insurance,original (registry)
+Prudential,Insurance,Prudential,original (registry)
+UOB CREDIT CARD,Finance,UOB Credit Card,case variant
+KFC,Food & Dining,KFC,abbreviation
+PUB-WATER-SG,Utilities,PUB Water,statement-format
+Frasers Property,Housing,Frasers Property,original (registry)
+Spotify,Entertainment,Spotify,original (registry)
+KFC-SG,Food & Dining,KFC,statement-format
+YOUTUBE-PREMIU-SG,Entertainment,YouTube Premium,statement-format
+StaHrub,Telecoms,StarHub,typo-2
+SP-GROUP-SG,Utilities,SP Group,statement-format
+SPP ower,Utilities,SP Power,typo-2
+Sembcorp Power Pte Ltd,Utilities,Sembcorp Power,legal-suffix
+SINGTEL,Telecoms,Singtel,case variant
+SMU-FEES-SG,Education,SMU Fees,statement-format
+STARHUB,Telecoms,StarHub,case variant
+SCO,Travel,Scoot,abbreviation
+NUS Tuition,Education,NUS Tuition,original (registry)
+STARHUB-SG,Telecoms,StarHub,statement-format
+CAPITALA,Housing,CapitaLand,abbreviation
+SMU Fers,Education,SMU Fees,typo-2
+City Gas Group,Utilities,City Gas,legal-suffix
+VIEWQWEST,Telecoms,ViewQwest,case variant
+SIT Fees,Education,SIT Fees,original (registry)
+PRUDENTIAL,Insurance,Prudential,case variant
+SIT Fes,Education,SIT Fees,typo-1
+Stanard Chartered,Finance,Standard Chartered,typo-1
+TPG Telecom Pte Ltd,Telecoms,TPG Telecom,legal-suffix
+Raffles Hotel Pte Ltd,Travel,Raffles Hotel,legal-suffix
+ComfortDelGfo,Transport,ComfortDelGro,typo-1
+KEPPEL ELECTRIC,Utilities,Keppel Electric,case variant
+HDBRent,Housing,HDB Rent,typo-2
+YP,Entertainment,YouTube Premium,abbreviation
+YouTube Premium,Entertainment,YouTube Premium,original (registry)
+Disney Ppus,Entertainment,Disney Plus,typo-2
+Ascendas,Housing,Ascendas,original (registry)
+Scoot Group,Travel,Scoot,legal-suffix
+SBS TRANSIT,Transport,SBS Transit,case variant
+Sintel,Telecoms,Singtel,typo-1
+MANULIFE-SG,Insurance,Manulife,statement-format
+NUS Tuition Group,Education,NUS Tuition,legal-suffix
+MCDONALD'S,Food & Dining,McDonald's,case variant
+Amazon Prime,Entertainment,Amazon Prime,original (registry)
+PRUDENTI,Insurance,Prudential,abbreviation
+SUTD Fees,Education,SUTD Fees,original (registry)
+MARINA-BAY-SAN-SG,Travel,Marina Bay Sands,statement-format
+NTUC Income,Insurance,NTUC Income,typo-2
+GREAT EASTERN,Insurance,Great Eastern,case variant
+SUTED Fees,Education,SUTD Fees,typo-1
+ASCENDAS-SG,Housing,Ascendas,statement-format
+Great Eastern,Insurance,Great Eastern,original (registry)
+ViwQwest,Telecoms,ViewQwest,typo-1
+CaptaLand,Housing,CapitaLand,typo-1
+Ndtflix,Entertainment,Netflix,typo-1
+KFC,Food & Dining,KFC,original (registry)
+RAFFLES,Travel,Raffles Hotel,abbreviation
+AIA-INSURANCE-SG,Insurance,AIA Insurance,statement-format
+ASCEND,Housing,Ascendas,abbreviation
+Prudentila,Insurance,Prudential,typo-2
+Ascendsa,Housing,Ascendas,typo-2
+GREAT-EASTERN-SG,Insurance,Great Eastern,statement-format
+NTU Fees,Education,NTU Fees,original (registry)
+AIAInsurance,Insurance,AIA Insurance,typo-2
+M1 Mobile,Telecoms,M1 Mobile,original (registry)
+SMRT,Transport,SMRT,original (registry)
+GRAB-TRANSPORT-SG,Transport,Grab Transport,statement-format
+COMFORTDELG,Transport,ComfortDelGro,abbreviation
+RAFFLES-HOTEL-SG,Travel,Raffles Hotel,statement-format
+Raffles Hotel,Travel,Raffles Hotel,original (registry)
+OCBC Mortgage Pte Ltd,Finance,OCBC Mortgage,legal-suffix
+SIT Fees Group,Education,SIT Fees,legal-suffix
+SMU Fees,Education,SMU Fees,original (registry)
+SP Power,Utilities,SP Power,original (registry)
+SNS Transit,Transport,SBS Transit,typo-2
+CITY GAS,Utilities,City Gas,case variant
+STANDARD-CHART-SG,Finance,Standard Chartered,statement-format
+DB SHome Loan,Finance,DBS Home Loan,typo-2
+FRASERS PROPERTY,Housing,Frasers Property,case variant
+Grab Transport Pte Ltd,Transport,Grab Transport,legal-suffix
+NTU Fees Pte Ltd,Education,NTU Fees,legal-suffix
+Sptoify,Entertainment,Spotify,typo-2
+Grea tEastern,Insurance,Great Eastern,typo-2
+TOKIO MARINE,Insurance,Tokio Marine,case variant
+Spotiy,Entertainment,Spotify,typo-1
+McDonld's,Food & Dining,McDonald's,typo-1
+MCDONALD,Food & Dining,McDonald's,abbreviation
+HSBC Limited,Finance,HSBC,legal-suffix
+SMR,Transport,SMRT,abbreviation
+SINGAPORE-AIRL-SG,Travel,Singapore Airlines,statement-format
+HSBC,Finance,HSBC,original (registry)
+STARH,Telecoms,StarHub,abbreviation
+PUB Water,Utilities,PUB Water,original (registry)
+MANULIFE,Insurance,Manulife,case variant
+SIT FEES,Education,SIT Fees,case variant
+ComtortDelGro,Transport,ComfortDelGro,typo-2
+NTU FEES,Education,NTU Fees,case variant
+KFC,Food & Dining,KFC,typo-1
+COMFORTDELGRO-SG,Transport,ComfortDelGro,statement-format
+Sembcorp Power,Utilities,Sembcorp Power,original (registry)
+NTUC Income Pte Ltd,Insurance,NTUC Income,legal-suffix
+Manulife,Insurance,Manulife,original (registry)
+ASCENDAS,Housing,Ascendas,case variant
+OCBC Mortgage,Finance,OCBC Mortgage,original (registry)
+Singapore Airlinses,Travel,Singapore Airlines,typo-1
+DBS Credit Card Limited,Finance,DBS Credit Card,legal-suffix
+DBS-CREDIT-CAR-SG,Finance,DBS Credit Card,statement-format
+Great Eastern Group,Insurance,Great Eastern,legal-suffix
+TOKIO-MARINE-SG,Insurance,Tokio Marine,statement-format
+APPLE-TV-SG,Entertainment,Apple TV,statement-format
+OCBC-MORTGAGE-SG,Finance,OCBC Mortgage,statement-format
+DBS CREDIT CARD,Finance,DBS Credit Card,case variant
+Amazon Prime Group,Entertainment,Amazon Prime,legal-suffix
+PUB Watr,Utilities,PUB Water,typo-1
+CapiatLand,Housing,CapitaLand,typo-2
+Singtrl,Telecoms,Singtel,typo-2
+MYREPUBLIC-SG,Telecoms,MyRepublic,statement-format
+HSB,Finance,HSBC,abbreviation
+MARINA BAY SAN,Travel,Marina Bay Sands,abbreviation
+Netflix,Entertainment,Netflix,original (registry)
+Manulife Pte Ltd,Insurance,Manulife,legal-suffix
+DBS Home Loan,Finance,DBS Home Loan,original (registry)
+SOP Group,Utilities,SP Group,typo-1
+NETFLIX,Entertainment,Netflix,case variant
+ViewQwdest,Telecoms,ViewQwest,typo-2
+MyRpeublic,Telecoms,MyRepublic,typo-2
+Citibank Pte Ltd,Finance,Citibank,legal-suffix
+MyRepublic Ltd,Telecoms,MyRepublic,legal-suffix
+KFC Pte Ltd,Food & Dining,KFC,legal-suffix
+Ascednas,Housing,Ascendas,typo-1
+SUGTD Fees,Education,SUTD Fees,typo-2
+Tkkio Marine,Insurance,Tokio Marine,typo-2
+SINGT,Telecoms,Singtel,abbreviation
+Sxcoot,Travel,Scoot,typo-1
+STANDARD CHARTERED,Finance,Standard Chartered,case variant
+UOB Credit Card Group,Finance,UOB Credit Card,legal-suffix
+HDB RENT,Housing,HDB Rent,case variant
+PYUB Water,Utilities,PUB Water,typo-2
+HDB-RENT-SG,Housing,HDB Rent,statement-format
+GREAT EASTE,Insurance,Great Eastern,abbreviation
+City Gas,Utilities,City Gas,original (registry)
+M1 Mobile Ltd,Telecoms,M1 Mobile,legal-suffix
+SPOTI,Entertainment,Spotify,abbreviation
+TPG Tleecom,Telecoms,TPG Telecom,typo-1
+SUTD Fees Group,Education,SUTD Fees,legal-suffix
